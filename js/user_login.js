@@ -3,13 +3,13 @@ $(document).ready(function() {
 
     // web app's Firebase configuration
     var firebaseConfig = {
-        apiKey: "AIzaSyBin1evT-H6jfR49WIhtVPsGMLzbEklIQY",
-        authDomain: "library-management-syste-f2a85.firebaseapp.com",
-        databaseURL: "https://library-management-syste-f2a85.firebaseio.com",
-        projectId: "library-management-syste-f2a85",
-        storageBucket: "library-management-syste-f2a85.appspot.com",
-        messagingSenderId: "914416876417",
-        appId: "1:914416876417:web:bf9e7762c1c283ba"
+        apiKey: "AIzaSyBpJW4DFfyVK7vX4dMiGuLlulOn3H1eawc",
+        authDomain: "library-management-syste-5fdf3.firebaseapp.com",
+        databaseURL: "https://library-management-syste-5fdf3-default-rtdb.firebaseio.com",
+        projectId: "library-management-syste-5fdf3",
+        storageBucket: "library-management-syste-5fdf3.firebasestorage.app",
+        messagingSenderId: "245314782483",
+        appId: "1:245314782483:web:eca676532b37134a16c6e6"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
